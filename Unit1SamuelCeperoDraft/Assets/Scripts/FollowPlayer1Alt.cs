@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class FollowPlayer : MonoBehaviour
+public class FollowPlayer1Alt : MonoBehaviour
 {
     public GameObject player2;
     private Vector3 offset2 = new Vector3(0, 1.96f, -0.119f);
